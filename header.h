@@ -1,4 +1,3 @@
-              
 #include"external.h"      /*Header file global variables */ 
 #include"rtc.h"           /*Header file for DS3231 RTC */ 
 #include"i2c.h"           /*Header file for i2c*/
